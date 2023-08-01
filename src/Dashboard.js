@@ -77,9 +77,8 @@ export default class Dashboard extends Component {
                 </Layout>
                 <Layout>
                     <Footer style={{ height: 20 }}>
-                        <div style={{marginTop: -10}}>
-                            Source Code <a href='https://github.com/sdq/react-d3-dashboard'>https://github.com/sdq/react-d3-dashboard</a>;
-                            Author <a href='https://sdq.ai'>sdq</a>;
+                     <div style={{marginTop: -10}}>
+                           Nischal 2023
                         </div>
                     </Footer>
                 </Layout>
